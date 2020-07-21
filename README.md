@@ -1,6 +1,6 @@
 # Pynetree
 
-Markdown + Base HTML + Python -> HTML Page
+Markdown + Base HTML + Python = Generated HTML Page
 
 ## Goal
 
