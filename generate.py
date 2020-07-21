@@ -4,7 +4,6 @@ inputfolder_name = "input"
 outputfolder_name = "output"
 
 basefile_name = "base.html"
-
 bodyfile_name = "body.md"
 
 outputfile_name = "index.html"
