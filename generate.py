@@ -1,6 +1,7 @@
 import re, base64
 
 inputfolder_name = "input"
+
 outputfolder_name = "output"
 
 basefile_name = "base.html"
